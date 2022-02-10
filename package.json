@@ -63,7 +63,7 @@
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-vue": "^5.0.0",
     "file-loader": "^1.1.11",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prettier": "^1.15.3",
     "sass-loader": "^6.0.7",
     "vue-loader": "^15.7.0",
